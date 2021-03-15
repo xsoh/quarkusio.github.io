@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Mon, 15 Mar 2021 18:44:44 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.12.2.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-12-2-final-released/
+            </link>
+            <description>
+                1.12.2.Final is a maintenance release fixing bugs and improving the documentation. It is a recommended upgrade for everyone using Quarkus 1.12. If you are not using 1.12 already, please refer to the 1.12 migration guide. What&#8217;s new? Two important regressions fixed 1.12.2.Final fixes two important regressions that were introduced in...
+            </description>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-12-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>ja.quarkus.io is now public</title>
+            <link>
+                https://quarkus.io/blog/ja-quarkus-io/
+            </link>
+            <description>
+                Today we&#8217;re proud to announce our quarkus.io Japanese localization site (https://ja.quarkus.io) is now open. It is where our valuable guides and blog entries are translated. Some contents have not been translated yet, but we are continuing to translate them one by one. We are working on the localization of the...
+            </description>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/ja-quarkus-io/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Path resolution in Quarkus</title>
+            <link>
+                https://quarkus.io/blog/path-resolution-in-quarkus/
+            </link>
+            <description>
+                We have had an unusually bumpy ride the last few weeks. Path resolution can be sneakily complicated, and in trying to make things better, we accidentally made them worse! We&#8217;ve fixed it all now, but you might notice some changes. Hopefully, this post will make clear what those changes are,...
+            </description>
+            <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/path-resolution-in-quarkus/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.12.1.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-12-1-final-released/
+            </link>
+            <description>
+                1.12.1.Final is a maintenance release fixing bugs and improving the documentation. 1.12.1.Final is a safe upgrade for everyone using Quarkus 1.12. If you are not using 1.12 already, please refer to the 1.12 migration guide. What&#8217;s new? Path resolution for configurable endpoints changed in this release. Full changelog You can...
+            </description>
+            <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-12-1-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.12 released - Fast jar as default, Multipart support for RESTEasy Reactive</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-12-0-final-released/
+            </link>
+            <description>
+                It is my pleasure to announce the release of Quarkus 1.12.0.Final. It comes with some significant changes: Fast jar is now the default packaging when you build a jar. RESTEasy Reactive keeps improving and it now has support for multipart. Vert.x Axle and RX Java managed instances have been dropped....
+            </description>
+            <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-12-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Tools for IntelliJ 1.4.0 released!</title>
+            <link>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.4.0/
+            </link>
+            <description>
+                We are very pleased to announce the 1.4.0 release of Quarkus Tools for IntelliJ. This release enhances codestarts support in the Quarkus project wizard. Codestarts The Quarkus project wizard now highlights codestarts enabled extension with a specific icon (right to the extension name), similar to code.quarkus.io, allowing users to better...
+            </description>
+            <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.4.0/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11.3.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-3-final-released/
+            </link>
+            <description>
+                1.11.3.Final mainly fixes a regression introduced in 1.11.2.Final that makes it impossible to build native executables while using both the RESTEasy and OpenTracing extensions. It is a safe upgrade for everyone using Quarkus 1.11. If you are not using 1.11 already, please refer to the 1.11 migration guide. You can...
+            </description>
+            <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Massive performance without headaches</title>
+            <link>
+                https://quarkus.io/blog/resteasy-reactive-faq/
+            </link>
+            <description>
+                The purpose of this blog post is to clear up some confusion about RESTEasy Reactive and answer some commonly asked questions around it. Acknowledgement This blog post would not have been possible without the expert advice of Clement Escoffier and Stéphane Épardaud. Imperative and Reactive: the elevator pitch In our...
+            </description>
+            <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/resteasy-reactive-faq/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11.2.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-2-final-released/
+            </link>
+            <description>
+                1.11.2.Final is a maintenance release fixing bugs and improving the documentation. It is a safe upgrade for everyone using Quarkus 1.11. If you are not using 1.11 already, please refer to the 1.11 migration guide. What&#8217;s new? Hibernate ORM We upgraded to Hibernate ORM 5.4.27.SP1 which fixes an important issue,...
+            </description>
+            <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Insights Q&amp;A</title>
+            <link>
+                https://quarkus.io/blog/quarkus-insights-qanda/
+            </link>
+            <description>
+                On the next Quarkus Insights episode, we are trying something new. We will cover the most often asked questions we have seen and any question tagged with #quarkusinsights on our various social media presences: Twitter, Facebook, LinkedIn or on the youtube event directly. If you have a question about Quarkus...
+            </description>
+            <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-insights-qanda/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
